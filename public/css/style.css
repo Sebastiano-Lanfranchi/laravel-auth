@@ -1,0 +1,18 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: cornflowerblue;
+  align-items: center;
+}
+header .site-title {
+  color: whitesmoke;
+}
+
+td {
+  line-height: 150px;
+}
+
+.cover-resize {
+  width: 200px;
+  height: 200px;
+}
